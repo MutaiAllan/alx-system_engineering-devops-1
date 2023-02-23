@@ -3,7 +3,7 @@
 =======
 0x04. Loops, conditions and parsing
 
-About Bash projects
+the About Bash projects
 Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 Background Context
